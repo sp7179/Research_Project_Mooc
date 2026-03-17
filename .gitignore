@@ -1,0 +1,54 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.csv
+.env
+.venv/
+venv/
+env/
+
+# ========================
+# ML / Data files
+# ========================
+*.h5
+*.pt
+*.pth
+*.joblib
+*.pkl
+*.npy
+*.npz
+
+# ========================
+# Node / Frontend (if using Next.js)
+# ========================
+node_modules/
+.next/
+out/
+build/
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+
+# ========================
+# OS files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# Secrets
+# ========================
+.env
+*.key
+*.pem
